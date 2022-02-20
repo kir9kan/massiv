@@ -1,4 +1,4 @@
-public class questtwo {
+public class questTwo {
     public static void main(String[] args) {
         int a =0;
 

@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class questnine {
+public class questNine {
     public static void main(String[] args){
         int n;
         int left=0;

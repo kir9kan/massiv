@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class questfore {
+public class questFore {
     public static void main(String[] args) {
         int[] array = new int[20];
         Random random = new Random();

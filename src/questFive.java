@@ -1,7 +1,6 @@
-import javax.swing.*;
 import java.util.Random;
 
-public class questfiive {
+public class questFive {
     public static void main(String[] args){
         int sumOne=0;
         int summTwo=0;
@@ -15,11 +14,11 @@ public class questfiive {
         System.out.println(" ");
         System.out.println(sumOne);
         System.out.println(" ");
-        int[] arraytwo = new int[5];
+        int[] arrayTwo = new int[5];
         for(int j=0;j<5;j++){
-            arraytwo[j]=random.nextInt(15);
-            System.out.print(arraytwo[j]+" ");
-            summTwo=summTwo+arraytwo[j];
+            arrayTwo[j]=random.nextInt(15);
+            System.out.print(arrayTwo[j]+" ");
+            summTwo=summTwo+arrayTwo[j];
         }
         System.out.println(" ");
         System.out.println(summTwo);

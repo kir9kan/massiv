@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class questseven {
+public class questSeven {
     public static void main(String[] args) {
         System.out.print("все значения: ");
         int min=0;

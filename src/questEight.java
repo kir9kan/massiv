@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class questeight {
+public class questEight {
     public static void main(String[] args) {
         System.out.print("первый массив: ");
         Random random = new Random();

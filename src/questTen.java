@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class questten {
+public class questTen {
     public static void main(String[] args) {
         int n=0,k=0;
         Random random = new Random();
@@ -23,11 +23,11 @@ public class questten {
         }
         System.out.println(" ");
             if(k>0){
-                int[] arrayk =new int[k];
+                int[] arrayK =new int[k];
                 for(int i=0,b=0;i<n;i++){
                     if(array[i]%2==0 & array[i]!=0){
-                        arrayk[b]=array[i];
-                        System.out.print(arrayk[b]+" ");
+                        arrayK[b]=array[i];
+                        System.out.print(arrayK[b]+" ");
                     }
                 }
             }
